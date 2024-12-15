@@ -1,0 +1,6 @@
+Plans:
+- Play music from yt, spoti, sc, etc.
+- Play / Upload from files
+
+0.1
+- Join and Leave commands

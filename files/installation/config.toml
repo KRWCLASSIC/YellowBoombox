@@ -1,0 +1,18 @@
+# These settings are made for my Discord server, feel free to change them! (especially id's!)
+# This isn't supposed to be a robust bot with billions of features! For that, you can use YAGPDB...
+
+[settings]
+admin_ids = [495999626143465472]
+autoupdate = "n"
+
+# Just good ol' logging
+[telemetry]
+file_path = "files/misc/telemetry.json"
+enabled = true
+
+[files]
+max_file_size = 14
+
+# Remember to create a token file and paste your bot token there!
+[token]
+token = "files/important/token.txt"
