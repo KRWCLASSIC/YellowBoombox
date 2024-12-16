@@ -1,6 +1,6 @@
-# Yellow Boombox `pre-0.1`
+# Yellow Boombox `0.1`
 
-[![Static Badge](https://img.shields.io/badge/Stable_Version-None-yellow)](https://roblox.com)
+[![Static Badge](https://img.shields.io/badge/Stable_Version-0.1-yellow)](https://roblox.com)
 [![Static Badge](https://img.shields.io/badge/Code_Version-pre--0.1-yellow)](https://github.com/KRWCLASSIC/YellowBoombox)
 [![Static Badge](https://img.shields.io/badge/Maintainer-KRWCLASSIC-green)](https://github.com/KRWCLASSIC)
 

@@ -3,4 +3,7 @@ Plans:
 - Play / Upload from files
 
 0.1
-- Join and Leave commands
+- Join, Leave, Queue, Stop, Volume, Forceplay, Play commands
+- Link playing from youtube
+- Queue handling
+- Threaded something
